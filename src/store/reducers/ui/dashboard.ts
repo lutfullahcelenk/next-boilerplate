@@ -5,7 +5,7 @@ export interface DashboardState {
 }
 
 export const initialDashboardState: DashboardState = {
-	title: "Dashboard",
+	title: "Lutfullah",
 };
 
 export const dashboardReducer = createSlice({
